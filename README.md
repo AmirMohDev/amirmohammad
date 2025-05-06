@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Amirmohammad</h1>
-<h3 align="center">Frontend Developer | React | JavaScript | Next</h3>
+<h3 align="center">Frontend Developer  | JavaScript | React</h3>
 
 <img width="100%" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" alt="divider" />
 
