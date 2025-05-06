@@ -12,7 +12,7 @@
 - 🔭 I'm currently working on cutting-edge React projects
 - 🌱 Learning **Advanced React Patterns** and **Web Performance**
 - 💡 Passionate about clean code and pixel-perfect UIs
-- 📫 How to reach me: [alisamavat.dev@gmail.com](mailto:alisamavat.dev@gmail.com)
+- 📫 How to reach me: [alisamavat.dev@gmail.com](mailto:contact.amir.51@gmail.com)
 
 ## 🛠 Tech Stack
 
